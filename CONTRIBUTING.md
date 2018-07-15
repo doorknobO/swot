@@ -26,7 +26,7 @@ If you did not contribute to this repository before, please read the repository 
 
 ##### Adding a School
 
-Let's say you want to add the [Stanford University](http://www.stanford.edu/). We'd simply create a file at `lib/domains/edu/stanford.txt` containing the text `Stanford University`. You can safely ignores subdomain like `www`, `cis`, whatever. You can see the actual file [here](https://github.com/jetbrains/swot/blob/master/lib/domains/edu/stanford.txt).
+Let's say you want to add the [Stanford University](http://www.stanford.edu/). We'd simply create a file at `lib/domains/edu/stanford.txt` containing the text `Stanford University`. You can safely ignore the subdomain like `www`, `cis`, whatever. You can see the actual file [here](https://github.com/jetbrains/swot/blob/master/lib/domains/edu/stanford.txt).
 
 #### Updating a School Name
 
